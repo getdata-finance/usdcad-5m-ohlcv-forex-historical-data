@@ -27,7 +27,7 @@
 - Built for **backtesting**, **algorithmic trading** and **quantitative finance** workflows
 - **Weekly refresh** — [getdata.finance](https://getdata.finance) every **Saturday, 8am UTC+0**; GitHub `5m` sample updated in sync
 
-> **Sample on GitHub** · `USDCAD_5m.csv` (11,096 rows, `2026-07-09` -> `2026-09-02`, 1.06 MB). **Full archive on [getdata.finance](https://getdata.finance/datasets/usdcad)** — **1,844,026** `5m` rows (full `1m`: 9,146,902), **11 timeframes**, `2001-11-28` -> `2026-09-02`.
+> **Sample on GitHub** · `USDCAD_5m.csv` (11,088 rows, `2026-07-09` -> `2026-09-02`, 1.06 MB). **Full archive on [getdata.finance](https://getdata.finance/datasets/usdcad)** — **1,844,026** `5m` rows (full `1m`: 9,133,625), **11 timeframes**, `2001-11-28` -> `2026-09-02`.
 
 ## Download sample
 
@@ -45,7 +45,7 @@ Full archive & live chart on getdata.finance: **[https://getdata.finance/dataset
 |---|--:|---|
 | Instrument | US Dollar / Canadian Dollar · Forex | US Dollar / Canadian Dollar · Forex |
 | Timeframes | `5m` (sample) | **11** — 1m · 3m · 5m · 15m · 30m · 1H · 4H · 12H · 1D · 3D · 1W |
-| 5m rows | 11,096 | **1,844,026** |
+| 5m rows | 11,088 | **1,844,026** |
 | Size | 1.06 MB | full ZIP on [getdata.finance](https://getdata.finance/datasets/usdcad) |
 | Period | `2026-07-09` -> `2026-09-02` | `2001-11-28` -> `2026-09-02` |
 | File | `USDCAD_5m.csv` | ZIP on [getdata.finance](https://getdata.finance/datasets/usdcad) |
@@ -75,11 +75,11 @@ First and latest rows from the GitHub sample **`USDCAD_5m.csv`**:
 
 | datetime | open | high | low | close | volume |
 | --- | --- | --- | --- | --- | --- |
-| 2026-07-09T13:10:00+00:00 | 1.41599 | 1.41623 | 1.41598 | 1.4161 | 465 |
-| 2026-07-09T13:15:00+00:00 | 1.4161 | 1.41612 | 1.41551 | 1.41608 | 1202 |
-| 2026-07-09T13:20:00+00:00 | 1.41608 | 1.41611 | 1.41577 | 1.41591 | 859 |
-| 2026-07-09T13:25:00+00:00 | 1.41591 | 1.41594 | 1.41569 | 1.41577 | 1007 |
-| 2026-07-09T13:30:00+00:00 | 1.41577 | 1.41603 | 1.41549 | 1.4159 | 1534 |
+| 2026-07-09T13:50:00+00:00 | 1.4166 | 1.41683 | 1.41642 | 1.41672 | 875 |
+| 2026-07-09T13:55:00+00:00 | 1.41672 | 1.41676 | 1.41656 | 1.41661 | 677 |
+| 2026-07-09T14:00:00+00:00 | 1.41661 | 1.41663 | 1.41567 | 1.41576 | 1101 |
+| 2026-07-09T14:05:00+00:00 | 1.41576 | 1.41621 | 1.41576 | 1.4162 | 1140 |
+| 2026-07-09T14:10:00+00:00 | 1.4162 | 1.41621 | 1.41596 | 1.41613 | 746 |
 
 **Last rows**
 
